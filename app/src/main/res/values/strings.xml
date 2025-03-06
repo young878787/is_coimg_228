@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">要228了</string>
+    <string name="app_name">My Application</string>
+    <string name="txt_scissors">剪刀</string>
+    <string name="txt_rock">石頭</string>
+    <string name="txt_paper">布</string>
 </resources>
